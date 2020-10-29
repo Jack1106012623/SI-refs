@@ -1,6 +1,6 @@
 # References to SI variants
 The picture is from Natacha Crooks's PhD 2019 Thesis page 51: A client-centric approach to transactional datastores
-![pic](https://github.com/Jack1106012623/SI-refs/navigation.jpg "Natacha Crooks's PhD Thesis2019")
+![pic](./navigation.jpg "Natacha Crooks's PhD Thesis2019")
 
 * [4] ADYA, A. Weak Consistency: __A Generalized Theory and Optimistic Implementations for Distributed Transactions.__ [//]: # (Ph.D., MIT, Cambridge, MA, USA, Mar. 1999. Also as Technical Report MIT/LCS/TR-786.)
 * [5] ADYA, A., AND LISKOV, B. __Lazy consistency using loosely synchronized clocks.__  [//]: # (In
